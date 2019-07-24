@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f72bf4b-af16-430f-abe4-394df5f6fcb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Razer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Razer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instagram/Instagram/Instagram/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Instagram/Instagram/Instagram/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instagram/InstagramDetail/InstagramDetail/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Instagram/InstagramDetail/InstagramDetail/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instagram/InstagramDetail/InstagramDetail/spiders/instagramdetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Instagram/InstagramDetail/InstagramDetail/spiders/instagramdetail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/spiders/reddit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/spiders/redditpcmasterrace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/Reddit/spiders/reddittechsupport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/Reddit/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/RedditDetail/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/RedditDetail/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/RedditDetail/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/RedditDetail/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/RedditDetail/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/RedditDetail/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/RedditDetail/spiders/redditdetail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reddit/RedditDetail/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocialMention/SocialMention/SocialMention/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SocialMention/SocialMention/SocialMention/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocialMention/SocialMentionDetail/SocialMentionDetail/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SocialMention/SocialMentionDetail/SocialMentionDetail/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Timer/mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Timer/mail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Timer/timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Timer/timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Twitter/TwitterSource/TwitterSource/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Twitter/TwitterSource/TwitterSource/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/YoutubeRazer/YoutubeRazer/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/YoutubeRazer/YoutubeRazer/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YoutubeVideo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeVideo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeVideo/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeVideo/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeVideo/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeVideo/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeVideo/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YoutubeVideo/spiders/youtubevideo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/Amazon/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/Amazon/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/Amazon/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/Amazon/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/Amazon/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/Amazon/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/Amazon/spiders/amazon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Amazon/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/AmazonDetail/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/AmazonDetail/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/AmazonDetail/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/AmazonDetail/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/AmazonDetail/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/AmazonDetail/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/AmazonDetail/spiders/amazondetail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/AmazonDetail/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/spiders/instagram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/Instagram/spiders/instagramminliangtan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Instagram/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/InstagramDetail/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/InstagramDetail/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/InstagramDetail/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/InstagramDetail/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/InstagramDetail/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/InstagramDetail/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/InstagramDetail/spiders/instagramdetail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/InstagramDetail/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/Twitter/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/Twitter/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/Twitter/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/Twitter/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/Twitter/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/Twitter/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/Twitter/spiders/twitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/Twitter/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/TwitterDetail/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/TwitterDetail/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/TwitterDetail/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/TwitterDetail/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/TwitterDetail/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/TwitterDetail/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/TwitterDetail/spiders/twitterdetail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterDetail/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/spiders/twitterminliangtan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/spiders/twitteropensourcevr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/spiders/twittersource.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/TwitterSource/spiders/twitterteamrazer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gerapy/projects/TwitterSource/setup.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="528160901">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="211" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="211" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/YoutubeVideo/pipelines.py" />
+        <option value="$PROJECT_DIR$/YoutubeVideo/settings.py" />
+        <option value="$PROJECT_DIR$/YoutubeVideo/items.py" />
+        <option value="$PROJECT_DIR$/YoutubeVideo/spiders/youtubevideo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="729" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YoutubeVideo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoutubeVideo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoutubeVideo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoutubeVideo" type="462c0819:PsiDirectoryNode" />
+              <item name="YoutubeVideo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YoutubeVideo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YoutubeVideo" type="462c0819:PsiDirectoryNode" />
+              <item name="YoutubeVideo" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f72bf4b-af16-430f-abe4-394df5f6fcb8" name="Default Changelist" comment="" />
+      <created>1557974904725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557974904725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="729" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17043619" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/YoutubeVideo/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/YoutubeVideo/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/YoutubeVideo/settings.py" />
+    <entry file="file://$PROJECT_DIR$/YoutubeVideo/items.py" />
+    <entry file="file://$PROJECT_DIR$/YoutubeVideo/spiders/youtubevideo.py" />
+  </component>
+</project>
